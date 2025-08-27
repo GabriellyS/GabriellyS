@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, eu sou a Gaby
 
-<!--
-**GabriellyS/GabriellyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas migrando para desenvolvimento
 
-Here are some ideas to get you started:
+Atualmente estudando **Java**, lógica e boas práticas de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projetos em destaque
+- [Cafeteira em Java](link_cafeteira) — escolha de café, troco, loops.
+- [Gestão de Ninjas](link_ninjas) — herança, menu no console.
+- Snake-Game (C#) — movimentação, colisão, pontuação.
+- Jogo-da-velha (C#) — lógica e interface console.
+
+##  Mídias
+- [LinkedIn](https://www.linkedin.com/in/gabrielly-dos-santos/)
+- 📫 santos.gabrielly14@gmail.com
