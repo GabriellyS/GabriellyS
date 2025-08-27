@@ -5,10 +5,8 @@ Analista de Sistemas migrando para desenvolvimento
 Atualmente estudando **Java**, lógica e boas práticas de código.
 
 ##  Projetos em destaque
-- [Cafeteira em Java](link_cafeteira) — escolha de café, troco, loops.
-- [Gestão de Ninjas](link_ninjas) — herança, menu no console.
-- Snake-Game (C#) — movimentação, colisão, pontuação.
-- Jogo-da-velha (C#) — lógica e interface console.
+- [snake-game](https://github.com/GabriellyS/Snake-Game) (C#) — movimentação, colisão, pontuação.
+- [jogo-da-velha](https://github.com/GabriellyS/Jogo-da-velha) (C#) — lógica e interface console.
 
 ##  Mídias
 - [LinkedIn](https://www.linkedin.com/in/gabrielly-dos-santos/)
