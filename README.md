@@ -1,13 +1,9 @@
-# Oi, eu sou a Gaby
+# Hi, I'm Gabs
 
-Analista de Sistemas que esta atualmente estudando **Java** para mudar para desenvolvimento.  
-Aprendendo lógica e boas práticas de código.
+I’m a Systems Analyst diving into Java and getting ready to move into development  
+Right now, I’m improving my logic and coding practices    
 
-##  Projetos em destaque
-- [snake-game](https://github.com/GabriellyS/Snake-Game) (C#) — movimentação, colisão, pontuação.
-- [jogo-da-velha](https://github.com/GabriellyS/Jogo-da-velha) (C#) — lógica e interface console.
-
-##  Tecnologias que estou explorando
+## Technologies I’m currently exploring
 ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
 ![C#](https://img.icons8.com/nolan/45/c-plus-plus-logo.png)
 ![Python](https://img.icons8.com/color/45/python.png)
@@ -17,9 +13,13 @@ Aprendendo lógica e boas práticas de código.
 
 ---
 
-##  Gostaria de colaborar?
-Se você tiver ideias, sugestões, ou quiser fazer um projeto juntos — manda mensagem
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+
+---
+
+## Interested in collaborating?
+If you have ideas, suggestions, or would like to work on a project together - feel free to reach out!
 
 [![LinkedIn Badge](https://img.icons8.com/color/45/linkedin.png)](https://www.linkedin.com/in/gabrielly-dos-santos)
 [![Instagram Badge](https://img.icons8.com/fluency/45/instagram-new.png)](http://instagram.com/gaby.snt14)
-[![Gmail Badge](https://img.icons8.com/color/45/gmail-new.png)]()
+[![Gmail Badge](https://img.icons8.com/color/45/gmail-new.png)](santos.gabrielly14@gmail.com)
