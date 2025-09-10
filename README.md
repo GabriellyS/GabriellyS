@@ -7,7 +7,7 @@ Right now, I’m improving my logic and coding practices
 ![C#](https://img.icons8.com/nolan/45/c-sharp-logo.png)
 ![Script](https://img.icons8.com/color/45/javascript--v1.png)
 ![Python](https://img.icons8.com/color/48/python.png)
-![Java](https://img.icons8.com/color/52/java-coffee-cup-logo--v1.png)
+![Java](https://img.icons8.com/dusk/48/java-coffee-cup-logo.png)
 
 ![VS](https://img.icons8.com/color/45/visual-studio--v2.png)
 ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
