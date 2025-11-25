@@ -15,10 +15,6 @@ Right now, I’m improving my logic and coding practices
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyS&layout=compact&theme=radical)
-
----
-
 ## Interested in collaborating?
 If you have ideas, suggestions, or would like to work on a project together - feel free to reach out!
 
